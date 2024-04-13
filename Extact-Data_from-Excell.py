@@ -1,3 +1,5 @@
+import pandas as pd
+
 # Path to the original Excel file
 input_file_path = 'Sample.xlsx'
 # Path to the Excel file to save the phone numbers
